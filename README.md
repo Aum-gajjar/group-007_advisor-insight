@@ -5,6 +5,13 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Security](https://img.shields.io/badge/security-AES--256-red)
 
+<br />
+<div align="center">
+  <img src="./assets/Gemini_Generated_Image_tptpjutptpjutptp.png" alt="AdvisorInsight Dashboard Preview" width="100%">
+  <p><em>Figure 1: AdvisorInsight Dashboard View</em></p>
+</div>
+<br />
+
 ## 📖 Project Overview
 **AdvisorInsight** is a secure, web-based dashboard designed to modernize the workflow of financial advisors. By aggregating client portfolio data, providing real-time risk analysis, and automating reporting, this solution aims to reduce administrative overhead by **40%** and improve client retention.
 
@@ -56,6 +63,7 @@ To run this project locally for development or testing purposes, follow these st
 ## 📂 Repository Structure
 ```text
 /group-007_advisor-insight
+├── /assets            # Project screenshots & static images
 ├── /config            # Auth0 and Security configurations
 ├── /src               # Source code for React components
 ├── /docs              # User Manuals & Wiki
