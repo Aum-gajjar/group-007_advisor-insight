@@ -7,7 +7,7 @@
 
 <br />
 <div align="center">
-  <img src="./assets/Gemini_Generated_Image_fh4co3fh4co3fh4c" alt="AdvisorInsight Dashboard Preview" width="100%">
+  <img src="./assets/Gemini_Generated_Image_fh4co3fh4co3fh4c.png" alt="AdvisorInsight Dashboard Preview" width="100%">
   <p><em>Figure 1: AdvisorInsight Dashboard View</em></p>
 </div>
 <br />
