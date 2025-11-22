@@ -1,0 +1,6 @@
+{
+  "domain": "dev-advisor-insight.auth0.com",
+  "clientId": "GROUP007_SECURE_ID",
+  "audience": "https://api.advisorinsight.com",
+  "encryption": "AES-256"
+}
